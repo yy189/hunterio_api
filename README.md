@@ -7,3 +7,6 @@ column 'Orgnization name' and 'Website'. E.g. MoviePass, https://www.moviepass.c
 
 To save me requests, I only implemented the (Domain Search)[https://hunter.io/api/docs#domain-search] function, to use other
 functions like Email Finder and Email Verifier, you need to implement them by yourself.
+
+TO DO:
+1. Interact with google sheet instead of local csv to save requests!
